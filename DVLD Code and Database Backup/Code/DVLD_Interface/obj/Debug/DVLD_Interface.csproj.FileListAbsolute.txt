@@ -1,0 +1,15 @@
+P:\Projects\DVLD\Code\DVLD_Interface\bin\Debug\DVLD_Interface.exe.config
+P:\Projects\DVLD\Code\DVLD_Interface\bin\Debug\DVLD_Interface.exe
+P:\Projects\DVLD\Code\DVLD_Interface\bin\Debug\DVLD_Interface.pdb
+P:\Projects\DVLD\Code\DVLD_Interface\bin\Debug\DVLD_Business.dll
+P:\Projects\DVLD\Code\DVLD_Interface\bin\Debug\DVLD_DataAccess.dll
+P:\Projects\DVLD\Code\DVLD_Interface\bin\Debug\DVLD_Business.pdb
+P:\Projects\DVLD\Code\DVLD_Interface\bin\Debug\DVLD_DataAccess.pdb
+P:\Projects\DVLD\Code\DVLD_Interface\obj\Debug\DVLD_Interface.csproj.AssemblyReference.cache
+P:\Projects\DVLD\Code\DVLD_Interface\obj\Debug\DVLD_Interface.frmLogin.resources
+P:\Projects\DVLD\Code\DVLD_Interface\obj\Debug\DVLD_Interface.Properties.Resources.resources
+P:\Projects\DVLD\Code\DVLD_Interface\obj\Debug\DVLD_Interface.csproj.GenerateResource.cache
+P:\Projects\DVLD\Code\DVLD_Interface\obj\Debug\DVLD_Interface.csproj.CoreCompileInputs.cache
+P:\Projects\DVLD\Code\DVLD_Interface\obj\Debug\DVLD_Interface.csproj.CopyComplete
+P:\Projects\DVLD\Code\DVLD_Interface\obj\Debug\DVLD_Interface.exe
+P:\Projects\DVLD\Code\DVLD_Interface\obj\Debug\DVLD_Interface.pdb
